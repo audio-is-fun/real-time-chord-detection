@@ -6,6 +6,10 @@ Implementation of algorithm proposed in [Bachelor Thesis: Design and Evaluation 
 
 * Install conda environment using `env/requirements-min.txt`.
 
+## Execution
+
+* Run `python detect_chords_microphone.py` for real-time chord detection (output in terminal).
+
 ## Relevant material
 
 * http://tsaith.github.io/time-frequency-analysis-with-short-time-fourier-transform.html
