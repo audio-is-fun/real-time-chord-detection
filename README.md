@@ -1,4 +1,4 @@
-# Chord Detection Algorithm
+# Real-Time Chord Detection Algorithm
 
 Implementation of algorithm proposed in [Bachelor Thesis: Design and Evaluation of a Simple Chord Detection Algorithm](https://www.fim.uni-passau.de/fileadmin/dokumente/fakultaeten/fim/lehrstuhl/sauer/geyer/BA_MA_Arbeiten/BA-HausnerChristoph-201409.pdf) by Christoph Hausner. 
 
